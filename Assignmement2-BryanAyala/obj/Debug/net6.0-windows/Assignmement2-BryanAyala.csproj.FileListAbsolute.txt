@@ -1,0 +1,17 @@
+C:\PROG1965-II\assignment\Assignmement2-BryanAyala\Assignmement2-BryanAyala\bin\Debug\net6.0-windows\Assignmement2-BryanAyala.exe
+C:\PROG1965-II\assignment\Assignmement2-BryanAyala\Assignmement2-BryanAyala\bin\Debug\net6.0-windows\Assignmement2-BryanAyala.deps.json
+C:\PROG1965-II\assignment\Assignmement2-BryanAyala\Assignmement2-BryanAyala\bin\Debug\net6.0-windows\Assignmement2-BryanAyala.runtimeconfig.json
+C:\PROG1965-II\assignment\Assignmement2-BryanAyala\Assignmement2-BryanAyala\bin\Debug\net6.0-windows\Assignmement2-BryanAyala.dll
+C:\PROG1965-II\assignment\Assignmement2-BryanAyala\Assignmement2-BryanAyala\bin\Debug\net6.0-windows\Assignmement2-BryanAyala.pdb
+C:\PROG1965-II\assignment\Assignmement2-BryanAyala\Assignmement2-BryanAyala\obj\Debug\net6.0-windows\Assignmement2-BryanAyala.csproj.AssemblyReference.cache
+C:\PROG1965-II\assignment\Assignmement2-BryanAyala\Assignmement2-BryanAyala\obj\Debug\net6.0-windows\Assignmement2_BryanAyala.Form1.resources
+C:\PROG1965-II\assignment\Assignmement2-BryanAyala\Assignmement2-BryanAyala\obj\Debug\net6.0-windows\Assignmement2-BryanAyala.csproj.GenerateResource.cache
+C:\PROG1965-II\assignment\Assignmement2-BryanAyala\Assignmement2-BryanAyala\obj\Debug\net6.0-windows\Assignmement2-BryanAyala.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROG1965-II\assignment\Assignmement2-BryanAyala\Assignmement2-BryanAyala\obj\Debug\net6.0-windows\Assignmement2-BryanAyala.AssemblyInfoInputs.cache
+C:\PROG1965-II\assignment\Assignmement2-BryanAyala\Assignmement2-BryanAyala\obj\Debug\net6.0-windows\Assignmement2-BryanAyala.AssemblyInfo.cs
+C:\PROG1965-II\assignment\Assignmement2-BryanAyala\Assignmement2-BryanAyala\obj\Debug\net6.0-windows\Assignmement2-BryanAyala.csproj.CoreCompileInputs.cache
+C:\PROG1965-II\assignment\Assignmement2-BryanAyala\Assignmement2-BryanAyala\obj\Debug\net6.0-windows\Assignmement2-BryanAyala.dll
+C:\PROG1965-II\assignment\Assignmement2-BryanAyala\Assignmement2-BryanAyala\obj\Debug\net6.0-windows\refint\Assignmement2-BryanAyala.dll
+C:\PROG1965-II\assignment\Assignmement2-BryanAyala\Assignmement2-BryanAyala\obj\Debug\net6.0-windows\Assignmement2-BryanAyala.pdb
+C:\PROG1965-II\assignment\Assignmement2-BryanAyala\Assignmement2-BryanAyala\obj\Debug\net6.0-windows\Assignmement2-BryanAyala.genruntimeconfig.cache
+C:\PROG1965-II\assignment\Assignmement2-BryanAyala\Assignmement2-BryanAyala\obj\Debug\net6.0-windows\ref\Assignmement2-BryanAyala.dll
